@@ -1,0 +1,16 @@
+/* Updated CSS selectors */
+.d-inline-block .h55 {
+  border-radius: 50px;
+  border: 2px solid blue;
+  padding: 8px;
+  cursor: pointer;
+  margin: 0 8px;
+  display: inline-block;
+  color: rgb(64, 24, 157);
+}
+
+.d-inline-block .h55.clicked {
+  background-color: rgb(64, 24, 157);
+  color: white;
+  transition: 0.7s;
+}

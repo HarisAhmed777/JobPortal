@@ -1,0 +1,35 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "ABC Tech",
+        "location": "New York",
+        "description": "We are seeking a talented and motivated Software Engineer to join our team. The ideal candidate will have experience with JavaScript, React, and Node.js.",
+        "requirements": ["Bachelor's degree in Computer Science or related field", "2+ years of experience in software development", "Strong problem-solving skills"],
+        "salary": "$80,000 - $100,000 per year",
+        "posted_at": "2024-02-10"
+      },
+      {
+        "id": 2,
+        "title": "Digital Marketing Specialist",
+        "company": "XYZ Marketing Agency",
+        "location": "Los Angeles",
+        "description": "We are looking for a Digital Marketing Specialist to develop, implement, track, and optimize our digital marketing campaigns across all digital channels.",
+        "requirements": ["Bachelor's degree in Marketing or related field", "Proven working experience in digital marketing", "Experience with SEO/SEM, email marketing, and social media advertising"],
+        "salary": "$50,000 - $70,000 per year",
+        "posted_at": "2024-02-09"
+      },
+      {
+        "id": 3,
+        "title": "Graphic Designer",
+        "company": "Creative Designs Inc.",
+        "location": "San Francisco",
+        "description": "We are seeking a talented Graphic Designer to create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers.",
+        "requirements": ["Bachelor's degree in Graphic Design or related field", "Proven graphic designing experience", "Proficiency with Adobe Creative Suite"],
+        "salary": "$40,000 - $60,000 per year",
+        "posted_at": "2024-02-08"
+      }
+    ]
+  }
+  

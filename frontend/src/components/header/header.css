@@ -1,0 +1,10 @@
+img{
+    height: 100px;
+    text-align: center;
+    align-items: center;
+}
+.maindiv{
+    /* display: flex; */
+    text-align: center !important;
+}
+

@@ -1,0 +1,81 @@
+/* Style for the container of the profile */
+.profile-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for headings */
+.profile-heading {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #333;
+}
+
+/* Style for personal details section */
+.personal-details {
+    margin-bottom: 20px;
+}
+
+.personal-details h3 {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.personal-details .maii {
+    font-weight: bold;
+}
+
+/* Style for address section */
+.address-section {
+    margin-bottom: 20px;
+}
+
+.address-section h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.address-section .address-details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.address-section .address-details h3 {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.address-section .address-details .maii {
+    font-weight: bold;
+}
+
+/* Style for education section */
+.education-section {
+    margin-bottom: 20px;
+}
+
+.education-section h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.education-section .education-details {
+    margin-left: 20px;
+}
+
+.education-section .education-details div {
+    margin-bottom: 10px;
+}
+
+.education-section .education-details h3 {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.education-section .education-details .maii {
+    font-weight: bold;
+}

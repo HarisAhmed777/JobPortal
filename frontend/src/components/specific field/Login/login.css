@@ -1,0 +1,54 @@
+.main{
+    height: 90vh;
+    background-image:url(https://plexcollectionposters.com/images/2021/05/16/background-images-for-login-page3bc68c53b0db224b.md.jpg);
+    width: 99vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    
+}
+.side{
+    height: 500px;
+    width: 400px;
+    margin-left: 30rem;
+    /* margin-top: 7rem; */
+
+}
+.sim1{
+    background-color: gray !important;
+    width: 15rem;
+    height: 2rem;
+    border-radius: 10px;
+    
+
+}
+input{
+    text-align: center;
+    background-color: gray;
+    margin-left: 4rem;
+    height: 2.5rem;
+    width: 15rem;
+    border-radius: 10px;
+    cursor:crosshair;
+
+}
+input::placeholder{
+    color: whitesmoke;
+    cursor: crosshair;
+
+}
+button{
+    text-align: center;
+    margin-left: 6rem;
+    width: 12rem;
+    border-radius: 10px;
+
+}
+.btnn{
+    background-color:  rgb(64,24,157);
+    color: white;
+}
+.btnn:hover{
+    
+}

@@ -1,0 +1,49 @@
+input{
+    height: 50px;
+    width: 500px;
+    background-color: grey;
+    border-radius: 20px;
+    color: white;
+
+}
+::placeholder{
+    color: white;
+    padding-left: 40px;
+    margin-right: 10px;
+}
+.input-container {
+    position: relative;
+    margin-bottom: 20px;
+    width: 600px;
+
+  }
+
+  /* Style for the input field */
+  .input-container input {
+    padding-left: 40px; /* Adjust this value according to the icon size */
+    width: 400px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    float: right;
+  }
+
+  /* Style for the icon */
+  .input-container .icon {
+    position: absolute;
+    top: 10px; /* Adjust this value to vertically center the icon */
+    left: 10px;
+    color: #aaa;
+    
+  }
+  .search-btn {
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    float:right;
+  }

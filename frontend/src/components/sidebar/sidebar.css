@@ -1,0 +1,11 @@
+img{
+    height: 50px;
+}
+.mainsidebar{
+    background-color: rgb(64,24,157);
+    height: 85vh !important;
+    width: 18vw !important;
+    border-radius: 10px !important;
+    z-index: 2;
+    /* padding-right: 5rem !important; */
+}
